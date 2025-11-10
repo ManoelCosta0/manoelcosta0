@@ -23,7 +23,7 @@ Sou um desenvolvedor beckend apaixonado por programação, sempre buscando apren
 GamePy é a demo de um jogo do gênero RPG desenvolvido totalmente em python.
 
 - Biblioteca: [Python Arcade](https://api.arcade.academy/en/stable)
-- Conceitos utilizados no desenvolvimento: engenharia de software, máquina de estados, estruturas de dados, arquitetura de software e complexidade assintótica
+- Conceitos utilizados no desenvolvimento: engenharia de software, arquitetura de software, estruturas de dados, POO e complexidade assintótica
 
 Fique à vontade para entrar em contato para discutir oportunidades de colaboração em projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software! 😄
 
