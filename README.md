@@ -1,16 +1,30 @@
-## Hi there 👋
+# Manoel Costa
 
-<!--
-**ManoelCosta0/manoelcosta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoel%20Costa-blue?logo=linkedin)](https://www.linkedin.com/in/manoel-costa-196573254)
+[![Gmail](https://img.shields.io/badge/Gmail-manoelc062@gmail.com-red?logo=gmail&logoColor=white)](mailto:manoelc062@gmail.com)
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+
+## 🚀 Habilidades Técnicas
+
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java,python,cs,c)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,unity)](https://skillicons.dev)
+
+## 🏆 Projetos
+
+### [GamePy](https://github.com/ManoelCosta0/GamePy.git)
+
+GamePy é a demo de um jogo do gênero RPG desenvolvido totalmente em python.
+
+- Biblioteca: [Python Arcade](https://api.arcade.academy/en/stable)
+- Conceitos utilizados no desenvolvimento: engenharia de software, máquina de estados, estruturas de dados, arquitetura de software e complexidade assintótica
+
+Fique à vontade para entrar em contato para discutir oportunidades de colaboração em projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software! 😄
+
+![ManoelCosta0 GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelCosta0&show_icons=true&theme=merko)
