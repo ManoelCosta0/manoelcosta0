@@ -26,5 +26,3 @@ GamePy é a demo de um jogo do gênero RPG desenvolvido totalmente em python.
 - Conceitos utilizados no desenvolvimento: engenharia de software, arquitetura de software, estruturas de dados, POO e complexidade assintótica
 
 Fique à vontade para entrar em contato para discutir oportunidades de colaboração em projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software! 😄
-
-![ManoelCosta0 GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelCosta0&show_icons=true&theme=merko)
